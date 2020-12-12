@@ -1,0 +1,8 @@
+{
+    "name": "Bureau of Meteorology Integration",
+    "country": "AU",
+    "domains": ["weather", "camera"],
+    "homeassistant": "0.01.0",
+    "iot_class": ["Assumed State", "Local Push"],
+    "render_readme" : "true"
+  }
