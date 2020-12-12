@@ -1,0 +1,8 @@
+{
+  "domain": "bom",
+  "name": "Australian Bureau of Meteorology (BOM)",
+  "documentation": "https://www.home-assistant.io/integrations/bom",
+  "issue_tracker": "https://github.com/djhampson/habom/issues",
+  "requirements": ["bomradarloop==0.1.5"],
+  "codeowners": ["djhampson"]
+}
